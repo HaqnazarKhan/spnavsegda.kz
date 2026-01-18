@@ -1,0 +1,29 @@
+
+        * {
+          box-sizing: border-box;
+          margin: 0;
+          padding: 0;
+      }
+
+      body {
+
+        background-color: #f0f2f5; 
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+
+    }
+
+  
+        .mobile-screen {
+          width: 100%;
+          max-width: 480px; 
+          background-color: #ffffff; 
+          min-height: 100vh; 
+          box-shadow: 0 0 15px rgba(0,0,0,0.1); 
+          position: relative;
+      }
+
+    body, h1, h2, h3, h4, p, a, span, button, div, .btn {
+    font-family: 'Montserrat', sans-serif !important;} 
